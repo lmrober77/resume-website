@@ -1,5 +1,12 @@
+@font-face {
+    font-family: Ambery Garden;
+    src: url("/Users/lararoberts/git_practice/resume-website/assets/ambery-garden-font/AmberyGardenRegular-PKjGd.ttf") format("tff");
+    font-weight: normal;
+    font-style: normal;
+  }
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Ambery Garden", sans-serif;
     text-align: center;
     background-color: #f4f4f4;
 }
